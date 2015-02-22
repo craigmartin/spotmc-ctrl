@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"bitbucket.org/goura/spotmc-ctrl/handlers"
+	"github.com/goura/spotmc-ctrl/handlers"
 )
 
 func checkEnv() (err error) {

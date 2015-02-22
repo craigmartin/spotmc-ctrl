@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"bitbucket.org/goura/spotmc-ctrl/template-data"
 	"github.com/awslabs/aws-sdk-go/aws"
 	"github.com/awslabs/aws-sdk-go/gen/autoscaling"
+	"github.com/goura/spotmc-ctrl/template-data"
 
 	"fmt"
 	"html/template"
